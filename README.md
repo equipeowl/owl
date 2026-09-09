@@ -1,2 +1,1 @@
-# owl
-Código fonte da linguagem Owl.
+# Linguagem Owl
